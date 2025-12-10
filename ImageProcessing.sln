@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ImageProcessing", "ImageProcessing\ImageProcessing.pyproj", "{A2F8F5FE-BD63-44B7-B68E-C92359CAEF77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2F8F5FE-BD63-44B7-B68E-C92359CAEF77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2F8F5FE-BD63-44B7-B68E-C92359CAEF77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5FDCB54-34EB-48EF-A82C-223B16096B7F}
+	EndGlobalSection
+EndGlobal
